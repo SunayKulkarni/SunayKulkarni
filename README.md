@@ -1,5 +1,6 @@
 # 💫 About Me:
-Backend Development .  Ds Algo . Java.
+Hey,
+here i push all of the stuff im interested in Cause why not
 
 
 ## 🌐 Socials:
