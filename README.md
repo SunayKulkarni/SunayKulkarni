@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey,
-here i push all of the stuff im interested in Cause why not
+here i push all of the stuff im interested.
 
 
 ## 🌐 Socials:
