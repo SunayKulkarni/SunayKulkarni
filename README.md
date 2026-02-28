@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [sunaydev.vercel.app](sunaydev.vercel.app)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:sunaykulkarni17@gmail.com</h3>
 <p align="left">
 </p>
 
