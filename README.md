@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunay Kulkarni</h1>
+<h1 align="center">Hi, I'm Sunay Kulkarni</h1>
 <h3 align="center">Cs cybersec</h3>
 
 - 👨‍💻 All of my projects are available at [sunaydev.vercel.app](sunaydev.vercel.app)
