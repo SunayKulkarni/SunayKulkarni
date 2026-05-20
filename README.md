@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sunay Kulkarni</h1>
 <h3 align="center">Cs cybersec</h3>
 
-- 👨‍💻 All of my projects are available at [sunaydev.vercel.app](https://sunaydev.vercel.app/)
+- Portfolio [sunaydev.vercel.app](https://sunaydev.vercel.app/)
 
 <h3 align="left">Connect with me:sunaykulkarni17@gmail.com</h3>
 <p align="left">
