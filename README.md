@@ -3,7 +3,7 @@
 
 - Portfolio [sunaydev.vercel.app](https://sunaydev.vercel.app/)
 
-<h3 align="left">Connect with me:sunaykulkarni17@gmail.com</h3>
+<h3 align="left">Connect with me: sunaykulkarni17@gmail.com</h3>
 <p align="left">
 </p>
 
